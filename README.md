@@ -7,10 +7,9 @@ Este proyecto es una plataforma web de bienes raíces donde los usuarios pueden 
 Además, incluye un panel administrativo donde se pueden añadir, editar y eliminar propiedades (apartamentos).
 
 Existen dos versiones del proyecto:
-- Una basada en programación orientada a objetos (POO)
 - Otra basada en el patrón Modelo-Vista-Controlador (MVC)
 
-Frontend moderno separado en carpetas específicas: `src`, `build` y `HTML`.
+
 
 Tecnologías utilizadas
 ----------------------
@@ -29,16 +28,7 @@ Funcionalidades principales
 - Interfaz moderna y responsive
 - Separación clara entre lógica del negocio y presentación (versión MVC)
 
-Archivos incluidos
-------------------
-- **bienesRaicesPOO_PHP.rar**  
-  Contiene el proyecto completo orientado a objetos con todo el código backend y base de datos.
 
-- **bienesraicesMVC.rar**  
-  Proyecto con arquitectura MVC, más estructurado y mantenible.
-
-- **/src**, **/build**, **/HTML**  
-  Contienen los archivos del frontend: estructura HTML, estilos y scripts.
 
 Autor
 ------
