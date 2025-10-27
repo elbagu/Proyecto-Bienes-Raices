@@ -1,6 +1,7 @@
 BIENES RAÍCES - SISTEMA DE VENTA DE APARTAMENTOS
 ================================================
-<img width="1910" height="972" alt="Screenshot 2025-10-26 215057" src="https://github.com/user-attachments/assets/e87c1787-1562-4f19-b666-65a092b90844" />
+<img width="1910" height="874" alt="Screenshot 2025-10-26 215057" src="https://github.com/user-attachments/assets/5a2b18e3-01ff-4569-9a51-bedc3b1cc810" />
+
 
 Este proyecto es una plataforma web de bienes raíces donde los usuarios pueden explorar apartamentos disponibles a la venta y simular su compra.
 Además, incluye un panel administrativo donde se pueden añadir, editar y eliminar propiedades (apartamentos).
