@@ -6,8 +6,6 @@ BIENES RAÍCES - SISTEMA DE VENTA DE APARTAMENTOS
 Este proyecto es una plataforma web de bienes raíces donde los usuarios pueden explorar apartamentos disponibles a la venta y simular su compra.
 Además, incluye un panel administrativo donde se pueden añadir, editar y eliminar propiedades (apartamentos).
 
-Existen dos versiones del proyecto:
-- Otra basada en el patrón Modelo-Vista-Controlador (MVC)
 
 
 
